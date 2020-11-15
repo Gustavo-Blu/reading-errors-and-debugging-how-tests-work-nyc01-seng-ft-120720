@@ -1,2 +1,2 @@
 # Add your variables here
-def calculater
+first_number = 5
